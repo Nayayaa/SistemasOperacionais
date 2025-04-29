@@ -1,5 +1,6 @@
 # Sistemas Operacionais
-Trabalho de AC para a disciplina em Sistemas Operacionais 
+Trabalho de AC para a disciplina em Sistemas Operacionais e anotações.
+
 # Taxonomia de Sistemas
 
 Taxonomia de Sistemas Operacionais é a forma de classificar os diferentes tipos de Sistemas Operacionais com base em diversos critérios.
